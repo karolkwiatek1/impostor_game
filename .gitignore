@@ -1,0 +1,11 @@
+.env
+*.env
+
+/target
+
+**/*.rs.bk
+*.swp
+.DS_Store
+Thumbs.db
+
+.vscode/
